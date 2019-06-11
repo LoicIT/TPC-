@@ -1,0 +1,14 @@
+﻿  complaint.cpp
+  complaints.cpp
+  application.cpp
+  main.cpp
+  observer.cpp
+  subject.cpp
+d:\onedrive\documents\esirem-desktop-4e07a75\gepi 1\c++\td\td 4\sujet\td4\application\subject.cpp(24): warning C4018: '<' : incompatibilité signed/unsigned
+  view-add.cpp
+d:\onedrive\documents\esirem-desktop-4e07a75\gepi 1\c++\td\td 4\sujet\td4\application\view-add.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+d:\onedrive\documents\esirem-desktop-4e07a75\gepi 1\c++\td\td 4\sujet\td4\application\view-add.h(3): fatal error C1083: Impossible d'ouvrir le fichier include : 'controller.h' : No such file or directory
+  view-list.cpp
+d:\onedrive\documents\esirem-desktop-4e07a75\gepi 1\c++\td\td 4\sujet\td4\application\view-list.h(3): fatal error C1083: Impossible d'ouvrir le fichier include : 'controller.h' : No such file or directory
+  view.cpp
+  Génération de code en cours...
